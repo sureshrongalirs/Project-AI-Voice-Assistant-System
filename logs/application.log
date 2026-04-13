@@ -1,0 +1,14 @@
+[ 2026-04-13 16:16:48,154 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gate_\\anaconda3\\envs\\voicesystem\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[ 2026-04-13 16:16:48,154 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\gate_\anaconda3\envs\voicesystem\lib\site-packages\comtypes\gen'
+[ 2026-04-13 16:17:26,891 ] root - INFO - 
+[ 2026-04-13 16:17:47,597 ] root - INFO - 
+[ 2026-04-13 16:18:03,443 ] root - INFO - 
+[ 2026-04-13 16:18:08,960 ] root - INFO - 
+[ 2026-04-13 17:19:41,686 ] google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+[ 2026-04-13 17:19:44,765 ] httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 503 Service Unavailable"
+[ 2026-04-13 17:20:58,674 ] google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+[ 2026-04-13 17:20:59,040 ] httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent "HTTP/1.1 404 Not Found"
+[ 2026-04-13 17:22:30,243 ] google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+[ 2026-04-13 17:22:30,420 ] httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent "HTTP/1.1 404 Not Found"
+[ 2026-04-13 17:27:32,340 ] google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+[ 2026-04-13 17:27:32,520 ] httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent "HTTP/1.1 404 Not Found"
